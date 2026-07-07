@@ -1,4 +1,6 @@
 {
-  "status": "up",
-  "updatedAt": "2026-07-07T22:48:53.249Z"
+  "status": "maintenance",
+  "message": "Scheduled maintenance test - back shortly",
+  "messageLang": "en",
+  "updatedAt": "2026-07-07T22:54:03.433Z"
 }
