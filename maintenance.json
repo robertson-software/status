@@ -1,11 +1,8 @@
 {
-  "status": "maintenance",
-  "message": "We are performing planned maintenance. When we are back you may need to update your app from the App Store or Google Play.",
-  "expectedBackAt": "2026-08-21T03:54:35.006Z",
-  "messageLang": "en",
+  "status": "up",
+  "updatedAt": "2026-08-21T03:11:37.605Z",
   "minContract": {
     "goalito": 2,
     "bizito": 1
-  },
-  "updatedAt": "2026-08-21T03:11:28.208Z"
+  }
 }
