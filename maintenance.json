@@ -3,8 +3,8 @@
   "messageKey": "planned",
   "message": "We are performing planned maintenance.",
   "messageLang": "en",
-  "expectedBackAt": "2026-08-24T15:44:43.354Z",
-  "updatedAt": "2026-08-24T15:14:43.355Z",
+  "expectedBackAt": "2026-08-24T15:45:30.306Z",
+  "updatedAt": "2026-08-24T15:15:30.307Z",
   "minContract": {
     "goalito": 1
   }
