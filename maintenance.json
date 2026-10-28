@@ -1,10 +1,6 @@
 {
-  "status": "maintenance",
-  "messageKey": "planned",
-  "message": "We are performing planned maintenance.",
-  "messageLang": "en",
-  "expectedBackAt": "2026-10-28T18:20:06.657Z",
-  "updatedAt": "2026-10-28T18:05:06.657Z",
+  "status": "up",
+  "updatedAt": "2026-10-28T18:11:34.651Z",
   "minContract": {
     "goalito": 1
   }
