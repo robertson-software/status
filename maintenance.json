@@ -1,8 +1,4 @@
 {
-  "status": "maintenance",
-  "messageKey": "planned",
-  "message": "We are performing planned maintenance.",
-  "messageLang": "en",
-  "expectedBackAt": "2026-11-01T20:36:51.390Z",
-  "updatedAt": "2026-11-01T20:21:51.391Z"
+  "status": "up",
+  "updatedAt": "2026-11-01T20:32:09.168Z"
 }
