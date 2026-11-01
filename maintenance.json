@@ -1,6 +1,9 @@
 {
-  "status": "up",
-  "updatedAt": "2026-11-01T06:31:24.002Z",
+  "status": "maintenance",
+  "messageKey": "incident",
+  "message": "We hit an unexpected problem and are working on it now.",
+  "messageLang": "en",
+  "updatedAt": "2026-11-01T06:41:55.776Z",
   "minContract": {
     "goalito": 1
   }
