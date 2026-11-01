@@ -1,9 +1,10 @@
 {
   "status": "maintenance",
-  "messageKey": "incident",
-  "message": "We hit an unexpected problem and are working on it now.",
+  "messageKey": "planned",
+  "message": "We are performing planned maintenance.",
   "messageLang": "en",
-  "updatedAt": "2026-11-01T06:41:55.776Z",
+  "expectedBackAt": "2026-11-01T07:16:55.404Z",
+  "updatedAt": "2026-11-01T06:46:55.405Z",
   "minContract": {
     "goalito": 1
   }
